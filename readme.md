@@ -1,3 +1,7 @@
+# Work in progress
+
+
+
 # AngularJS generator [![Build Status](https://secure.travis-ci.org/yeoman/generator-angular.png?branch=master)](http://travis-ci.org/yeoman/generator-angular)
 
 Maintainer: [Brian Ford](https://github.com/btford)
